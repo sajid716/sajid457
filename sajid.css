@@ -1,0 +1,36 @@
+* {
+    max-width: 700px;
+    margin: auto;
+}
+
+div {
+    border-radius: 10px;
+}
+
+.stuff {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 1000px;
+}
+
+li {
+    font-family: 'Cormorant Garamond';
+}
+
+.head {
+    font-size: 20px;
+}
+
+#name {
+    font-family: Sacramento;
+    float: right;
+    margin-top: 10px;
+    margin-right: 4%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
